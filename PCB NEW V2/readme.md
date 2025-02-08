@@ -1,5 +1,5 @@
 # Open3DScanner NEW PCB
-![New PCB](https://github.com/Ralph4711/Arduino-Esp32-Wroom-Open3DScanner/images/3D_3D Scanner_2025-02-08.jpg?raw=true)
+![New PCB](https://github.com/Ralph4711/Arduino-Esp32-Wroom-Open3DScanner/images/33D_3D Scanner_2025-02-08.png?raw=true)
 
 This is a completely redesigned version of the Nazzrims PCB.
 Among other things, a connection for a reset button was added.
