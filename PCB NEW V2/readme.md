@@ -1,4 +1,4 @@
-# Open3DScanner NEW PCB V2a
+# Open3DScanner NEW PCB V2.0a
 ![New PCB](../images/PCB.png?raw=true)
 
 This is a completely redesigned version of the Nazzrims PCB.
