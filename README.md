@@ -15,6 +15,11 @@ But by automating the process of capturing the required photos the time you need
 - Removable backplate and storage area below the baseplate for reduces space requirements
 - Adjustable scanner frame for differently sized objects
 - Extensive documentation, providing you with build instructions and many additional informations about photogrammetry, the design process, and other open source 3D scanners
+  
+## Extra Features
+- NEW with an extern Camera pinout over optokoppler.
+- NEW 2 Pins on the board for an extern Reset Button
+- Changed Firmware for the extern Camera, and bug fixes for better compiling in the Arduino IDE.
 
 ## License
 Since this repository contains mixed resources (code, documents, images, ...) thera are different licenses which apply to different portions of the repository.
