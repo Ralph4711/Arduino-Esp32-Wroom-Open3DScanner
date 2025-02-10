@@ -31,3 +31,14 @@ But in general code and 3D model resources are licensed under the GPLv3 while me
 ## Completely redesigned version of the OpenScan Classic rig by Thomas Megel you can find here:
    More stable and better assembly of the pices, Several sizes can be built with this set.  
    https://www.printables.com/model/754201-openscan-classic-premium
+
+## Differences between the remix and the original
+- sturdier overall construction
+- more convenient height adjustment
+- use ball bearings instead of pins
+- use heated inserts instead of driving the screw into the plastic
+- higher modularity concerning the size of the scanner
+- cable management for the turntable stepper
+- printing without any supports
+- higher quality looking finish
+   
