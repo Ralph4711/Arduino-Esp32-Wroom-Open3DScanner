@@ -27,3 +27,7 @@ Since this repository contains mixed resources (code, documents, images, ...) th
 For that reason each subfolder of the root folder contains its own LICENSE.md file which defines the license which applies to the corresponding resources.
 
 But in general code and 3D model resources are licensed under the GPLv3 while media resources (like documents and images) are licensed with the CC-BY-SA 4.0 license.
+
+## Completely redesigned version of the OpenScan Classic rig by Thomas Megel you can find here:
+   More stable and better assembly of the pices, Several sizes can be built with this set.  
+   https://www.printables.com/model/754201-openscan-classic-premium
