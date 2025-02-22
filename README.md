@@ -42,3 +42,6 @@ But in general code and 3D model resources are licensed under the GPLv3 while me
 - printing without any supports
 - higher quality looking finish
    
+
+When you want buy the Motherboard, i sell 3 PCS at ebay this moment.
+You can find it here: https://www.ebay.de/itm/316362294007
