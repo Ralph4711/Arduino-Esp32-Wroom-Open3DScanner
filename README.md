@@ -67,7 +67,7 @@ ist ein Open-Source-Photogrammetrie-3D-Scanner. Trotz seines Namens bietet er ni
 ## Lizenz:
 Da dieses Repository gemischte Ressourcen (Code, Dokumente, Bilder usw.) enthält, gelten unterschiedliche Lizenzen für verschiedene Teile des Repositories. Aus diesem Grund enthält jeder Unterordner des Hauptordners seine eigene LICENSE.md-Datei, die die Lizenz definiert, die für die entsprechenden Ressourcen gilt. Im Allgemeinen sind Code- und 3D-Modellressourcen unter der GPLv3 lizenziert, während Medienressourcen (wie Dokumente und Bilder) unter der CC-BY-SA 4.0-Lizenz lizenziert sind.
 
-Eine komplett neu gestaltete Version des OpenScan Classic Rigs von Thomas Megel finden Sie hier: https://www.printables.com/model/754201-openscan-classic-premium
+Eine komplett neu gestaltete Version des OpenScan Classic Rigs von Thomas Megel finden Sie hier: [Scanner Premium-Link]https://www.printables.com/model/754201-openscan-classic-premium
 Stabilere und bessere Montage der Teile, mehrere Größen können mit diesem Set gebaut werden.
 OpenScan Classic Premium
 
